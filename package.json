@@ -1,0 +1,17 @@
+{
+  "name": "Atlantic_Guard_II",
+  "version": "1.0.0",
+  "description": "Atlantic Park Sunucusuna Özel Guard ",
+  "main": "atlantic.js",
+  "scripts": {
+    "start": "node atlantic.js"
+  },
+  "author": "charonn'",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.2.0",
+    "install": "^0.13.0",
+    "mongoose": "^5.9.19"
+  }
+}
